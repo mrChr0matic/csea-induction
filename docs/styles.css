@@ -42,7 +42,6 @@ body{
 
 
 .butt{
-    width: 30%;
     height: 12%;
     border-color: black;
     backdrop-filter: blur(100px);
